@@ -1,3 +1,4 @@
+// Question 2.a
 class FactorielleRecursive {
   def _compute(a: Int, res: Int): Int = a match {
     case 0 | 1 => res

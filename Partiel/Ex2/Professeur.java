@@ -1,5 +1,6 @@
 import java.util.Date;
 
+// Question 1
 public class Professeur extends Employe {
     // on pourrait faire une classe Matiere
     // mais ce n'est pas demandé ici

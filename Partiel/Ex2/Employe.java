@@ -1,5 +1,6 @@
 import java.util.Date;
 
+// Question 1
 public class Employe extends Personne {
     private int anciennete;
 

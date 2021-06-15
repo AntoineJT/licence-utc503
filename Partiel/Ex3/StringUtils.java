@@ -3,6 +3,7 @@ import java.util.function.Function;
 import java.util.function.Predicate;
 import java.util.stream.Collectors;
 
+// Question 1
 public class StringUtils {
     public static List<String> allMatches(List<String> candidates, Predicate<String> matchFunction) {
         return candidates.stream().filter(matchFunction).collect(Collectors.toList());

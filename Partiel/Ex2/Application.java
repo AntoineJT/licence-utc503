@@ -3,6 +3,7 @@ import java.text.SimpleDateFormat;
 import java.util.Arrays;
 import java.util.Date;
 
+// Question 2
 public class Application {
     // try catch ainsi car les dates sont toutes harcodées
     // cela est donc de la responsabilité du développeur
